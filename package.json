@@ -1,5 +1,18 @@
 {
   "dependencies": {
     "express": "^4.19.2"
-  }
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "name": "private",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pankaj Kumar",
+  "license": "ISC",
+  "description": ""
 }
